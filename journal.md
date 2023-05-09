@@ -1,4 +1,6 @@
+# Figure section
 
+Add a new figure. 
 
 # New modification
 
