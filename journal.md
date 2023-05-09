@@ -1,3 +1,10 @@
+
+
+# My affiliation
+
+
+Polytechnique
+
 # Figure section
 
 Add a new figure. 
